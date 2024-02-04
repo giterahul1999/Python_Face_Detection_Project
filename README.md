@@ -19,12 +19,9 @@ python
 >>>print(cv2.__version__)
 
 
-In myapplication, I have configured the code in such way that when you will be running the application we will have 2 windows.
-one window will show the Normal Live image where Other will show blur one.
 
 ![image](https://user-images.githubusercontent.com/66781417/193638890-5cd787a4-a935-4749-bca4-4140aec412bf.png)
 
 
-Also, in logs we will see live face matix Numbers:
 
 ![image](https://user-images.githubusercontent.com/66781417/193639157-fb6dae9e-1b11-4199-a734-29bdcf8925d3.png)
